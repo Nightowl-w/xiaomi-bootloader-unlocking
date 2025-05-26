@@ -28,7 +28,7 @@ This repository contains:
 - USB Cable `Original`
 - [Xiaomi Mi Unlock Tool](https://xdaforums.com/attachments/miflash_unlock_en_7-6-727-43-zip.6097046/)
 - [platform-tools](https://gofile.io/d/eGVJcQ)
-- [ADB 15 Seconds](https://androidmtk.com/download-15-seconds-adb-installer)`Download the latest version
+- [ADB 15 Seconds](https://androidmtk.com/download-15-seconds-adb-installer) `Download the latest version`
 - [FastBoot Drivers](https://gofile.io/d/55czhL) 
 - Xiaomi account (for unlock authorization)
 
