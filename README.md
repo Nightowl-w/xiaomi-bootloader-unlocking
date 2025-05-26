@@ -18,6 +18,7 @@ This repository contains:
 ## ⚠️ Disclaimer
 
 > Unlocking your bootloader **voids warranty** and may brick your device. Proceed only if you know the risks. This guide is for **educational purposes only**.
+> `Also Your Whole data got formated in the process while unlocking your bootloader`
 
 ---
 
