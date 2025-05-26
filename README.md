@@ -62,7 +62,7 @@ Before unlocking the bootloader, you **must link your Mi Account properly**. Fol
    - Make sure you're signed into the same Mi Account that you'll use for unlocking.
 
 2. **Bind a phone number to your Mi Account**  
-   - Go to [https://account.xiaomi.com](https://account.xiaomi.com) and check if your phone number is linked.
+   - Go to in Mi Account and check if your phone number is linked.
    - If not, add it.
 
 3. **Insert the SIM card**  
