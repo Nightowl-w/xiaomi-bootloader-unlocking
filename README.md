@@ -41,7 +41,7 @@ This repository contains:
 - Xiaomi phone with internet access
 - A computer (Windows/Linux/macOS)
 - USB Cable
-- [Xiaomi Mi Unlock Tool](mi-unlock-tool.md)
+- [Xiaomi Mi Unlock Tool](https://xdaforums.com/attachments/miflash_unlock_en_7-6-727-43-zip.6097046/)
 - [ADB & Fastboot (platform-tools)]( use my bat file to downlaod adb drivers )
 - Specific TWRP image for your device
 - Xiaomi account (for unlock authorization)
