@@ -65,6 +65,6 @@ This repository contains:
 4. **Confirm Your account**
 - Go to `Developer Option`
 - Tap on `Mi Unlock Status` Then in bottom click on verify after you get a sucessfull message then try to unlock bootloader if you get any error just type your error on chrome or youtube to slove that 
-5. **Boot to Fastboot**
+5. **Adb Setup**
    ```bash
-   adb reboot bootloader
+   Then go in adb folder which is in Your C drive `C:\adb`
