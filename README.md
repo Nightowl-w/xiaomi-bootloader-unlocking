@@ -4,21 +4,6 @@
 
 Comprehensive and beginner-friendly instructions for unlocking the bootloader and flashing TWRP custom recovery on **Xiaomi devices**, including Redmi, Poco, and Mi models.
 
----
-
-## 📋 Table of Contents
-
-- [About](#about)
-- [Disclaimer](#disclaimer)
-- [Requirements](#requirements)
-- [Bootloader Unlock Guide](#bootloader-unlock-guide)
-- [TWRP Flashing Guide](#twrp-flashing-guide)
-- [Device-Specific Guides](#device-specific-guides)
-- [Troubleshooting](#troubleshooting)
-- [License](#license)
-
----
-
 ## ℹ️ About
 
 This repository contains:
@@ -36,14 +21,15 @@ This repository contains:
 
 ---
 
-## 🧰 Requirements
+## 🧰 Requirements 
 
-- Xiaomi phone with internet access
+- Xiaomi phone with internet access `Turn off your wifi`
 - A computer (Windows/Linux/macOS)
-- USB Cable
+- USB Cable `Original`
 - [Xiaomi Mi Unlock Tool](https://xdaforums.com/attachments/miflash_unlock_en_7-6-727-43-zip.6097046/)
-- [ADB & Fastboot (platform-tools)]( use my bat file to downlaod adb drivers )
-- Specific TWRP image for your device
+- [platform-tools](https://gofile.io/d/eGVJcQ)
+- [ADB 15 Seconds](https://androidmtk.com/download-15-seconds-adb-installer)`Download the latest version
+- [FastBoot Drivers](https://gofile.io/d/55czhL) 
 - Xiaomi account (for unlock authorization)
 
 ---
