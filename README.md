@@ -50,7 +50,43 @@ This repository contains:
 
 4. **Confirm Your account**
 - Go to `Developer Option`
-- Tap on `Mi Unlock Status` Then in bottom click on verify after you get a sucessfull message then try to unlock bootloader if you get any error just type your error on chrome or youtube to slove that 
-5. **Adb Setup**
-   ```bash
-   Then go in adb folder which is in Your C drive `C:\adb`
+- Tap on `Mi Unlock Status` Then in bottom click on verify after you get a sucessfull message then try to unlock bootloader if you get any error just type your error on chrome or youtube to slove that
+
+## 🔐 Important Step Before Unlocking Bootloader (Xiaomi)
+
+Before unlocking the bootloader, you **must link your Mi Account properly**. Follow these steps:
+
+### ✅ Steps:
+
+1. **Use the Mi Account that’s on your phone**  
+   - Make sure you're signed into the same Mi Account that you'll use for unlocking.
+
+2. **Bind a phone number to your Mi Account**  
+   - Go to [https://account.xiaomi.com](https://account.xiaomi.com) and check if your phone number is linked.
+   - If not, add it.
+
+3. **Insert the SIM card**  
+   - Make sure the SIM card with that phone number is in the phone.
+
+4. **Turn off Wi-Fi**  
+   - Go to your settings and disable Wi-Fi.
+
+5. **Turn on Mobile Data**  
+   - Make sure your internet is coming from your SIM, not Wi-Fi.
+
+6. **Open Developer Options**  
+   - Go to `Settings > About phone` → tap **MIUI version** 7 times to enable Developer Options.
+   - Then go to `Settings > Additional settings > Developer options`.
+
+7. **Tap on "Mi Unlock Status"**  
+   - Scroll down and tap **"Mi Unlock Status"**
+
+8. **Tap "Add account and device"**  
+   - At the bottom, tap the button to **verify** and bind your account.
+
+9. **Wait for Success Message**  
+   - You’ll see a message like:  
+     **"Added successfully. Mi Account is associated with this device now."**
+
+10. **You're now ready to unlock the bootloader**  
+   - Use the Mi Unlock Tool on your PC to proceed.
