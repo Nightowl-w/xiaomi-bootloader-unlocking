@@ -35,7 +35,7 @@ This repository contains:
 ---
 
 ## 🔓 Bootloader Unlock Guide
-**Go In your Android mobile 
+**Go In your Android mobile**
 1. **Enable Developer Options**
    - Go to `Settings > About phone`
    - Tap `MIUI version` 7 times
